@@ -1,17 +1,13 @@
 hero:
-  image: "https://farm9.staticflickr.com/8605/16224290497_b32162a1a8_o.jpg"
-  heading: "Android Complete Developer Course"
-  subtitle: "All you need to know to start working as an Android Developer. No prior knowledge required."
+  image: "https://www.flickr.com/photos/130123892@N06/17389165998"
+  heading: "Curso MOOC de Reanimación Cardiopulmonar (RCP)"
+  subtitle: "Soporte Vital Básico y Avanzado en el adulto para profesionales sanitarios"
 
 testimonial:
   quote: "An spanish engineer, Marc Albero has been dealing with programming for more than 12 years now. He started with assembler at college, and spent years programming in C/C++ for Linux/FLOSS environments. In the last years, obsessed by the brave new world of mobile devices, he decided to branch into the highly dynamic programming environments for tablets and smartphones. Now, with sound knowledge under his belt, he undertakes an even more demanding enterprise: to try ant teach Android to everyone and their dog."
   person: "<strong>Marc Albero Chacón</strong>, <em>Android Developer Jedi</a></em>"
   image: "images/Marc.jpg"
 
-testimonial2:
-  quote: "Another Spanish engineer, José Manuel Martínez has been in e-learning for more than 8 years. He worked in cutting-edge technology design for MOOC production, and collaborated in the MOOCs platform setup for a spanish university, UPV, that is now one of the 5 universities with more courses on EdX. On these years José has learned very well what it takes to make an outstanding online course: engaging, practical and funny. Ready to deliver tons of value to its learning community."
-  person: "<strong>José Manuel</strong>, <em>Founder at Online School, Mindic.com</a></em>"
-  image: "images/Jose.jpg"
 
 about:
   title: "About the Course"
