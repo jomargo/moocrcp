@@ -1,11 +1,11 @@
 hero:
-  image: "https://c1.staticflickr.com/9/8829/17389165998_84c372a11c_o.jpg"
+  image: "https://c4.staticflickr.com/8/7785/17389834920_9014686aa3_z.jpg"
   heading: "Curso MOOC de Reanimación Cardiopulmonar (RCP)"
   subtitle: "Soporte Vital Básico y Avanzado en el adulto para profesionales sanitarios"
 
 testimonial:
   quote: "An spanish engineer, Marc Albero has been dealing with programming for more than 12 years now. He started with assembler at college, and spent years programming in C/C++ for Linux/FLOSS environments. In the last years, obsessed by the brave new world of mobile devices, he decided to branch into the highly dynamic programming environments for tablets and smartphones. Now, with sound knowledge under his belt, he undertakes an even more demanding enterprise: to try ant teach Android to everyone and their dog."
-  person: "<strong>Marc Albero Chacón</strong>, <em>Android Developer Jedi</a></em>"
+  person: "<strong>Dr. Enrique Martínez González</strong>, <em>Médico Anestesista</a></em>"
   image: "images/Marc.jpg"
 
 
