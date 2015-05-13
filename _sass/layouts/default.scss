@@ -109,7 +109,9 @@ a {
 
     .btn-primary {
       box-shadow: none;
-      padding: 13px 20px !important;
+      /*padding: 13px 20px !important;*/
+      text-align: center;
+      border-radius:  10px
     }
   }
 }
