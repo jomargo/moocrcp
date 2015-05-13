@@ -67,7 +67,7 @@ faq:
       answer: "Este curso no tiene parte práctica, por lo que sólo necesitarás tu pc o tablet para ver los videotutoriales"
 
 footer:
-  copyright: "&copy; 2015 Medicarama"
+  copyright: "&copy; 2015 <a href="http://medicarama.com">Medicarama</a>"
   contact: "Contacta con nosotros"
   email: "info@medicarama.com"
       
