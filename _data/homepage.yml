@@ -4,9 +4,9 @@ hero:
   subtitle: "Soporte Vital Básico y Avanzado en el adulto para profesionales sanitarios"
 
 testimonial:
-  quote: "An spanish engineer, Marc Albero has been dealing with programming for more than 12 years now. He started with assembler at college, and spent years programming in C/C++ for Linux/FLOSS environments. In the last years, obsessed by the brave new world of mobile devices, he decided to branch into the highly dynamic programming environments for tablets and smartphones. Now, with sound knowledge under his belt, he undertakes an even more demanding enterprise: to try ant teach Android to everyone and their dog."
-  person: "<strong>Dr. Enrique Martínez González</strong>, <em>Médico Anestesista</a></em>"
-  image: "images/Marc.jpg"
+  quote: "Doctor en Medicina y especialista en Anestesiología, Reanimación y Terapéutica del Dolor, Enrique ha realizado numerosas estancias de investigación en diferentes unidades de toda España, tocando diversos temas como el manejo de la vía aérea, la hemofiltración y el tratamiento del dolor y la fibromialgia. Ha colaborado en numerosos cursos y congresos, desarrolla una intensa actividad científica e investigadora, y tiene una especial pasión por la docencia médica"
+  person: "<strong>Enrique</strong>, <em>Médico especialista en Anestesiología y Reanimación</a></em>"
+  image: "images/Quique.jpg"
 
 
 about:
