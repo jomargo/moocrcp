@@ -126,54 +126,15 @@ background-position: center !important;">
         <h2 class="section-title">{{site.data.homepage.about.title}}</h2>
         <p>{{site.data.homepage.about.first_paragraph}}</p><br>
 
-        <div class="row">
-            <div class="col-sm-6 col-sm-offset-3">
-                <table class="table">
-                  <thead>
-                    <tr>
-                      <th>Month</th>
-                      <th>Revenue</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    {% for income in site.data.homepage.about.income_table %}
-                        <tr>
-                          <td>{{ income.month }}</td>
-                          <td class="amount">{{ income.income }}</td>
-                        </tr>
-                    {% endfor %}
-                  </tbody>
-                </table>
-            </div>
-        </div><br>
-
         <p>{{site.data.homepage.about.second_paragraph}}</p><br><br>
 
-        <a class="btn-primary btn-hg" href="#signup_row">{{site.data.homepage.about.call_to_action}}</a>
+        <a class="btn-primary btn-hg" href="{{site.data.homepage.about.link_to_enrollment_page}}">{{site.data.homepage.about.call_to_action}}</a>
       </div>
     </div>
   </div>
 </div>
 
 
-<!-- What You Will Learn -->
-<div class="learn-row description-row">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12 col-md-12">
-        <h2 class="section-title">{{site.data.homepage.learn.title}}</h2>
-        
-        {% for point in site.data.homepage.learn.points %}
-            <div class="point col-sm-4">
-                <div class="point-icon"><img src="{{point.icon}}"></div>
-                <div class="point-title">{{point.title}}</div>
-                <div class="point-description">{{point.description}}</div>
-            </div>
-        {% endfor %}
-      </div>
-    </div>
-  </div>
-</div>
 
 <!-- Sign Up To Get Notified -->
 <div class="signup-row description-row" id="signup_row">
@@ -181,8 +142,8 @@ background-position: center !important;">
       <div class="col-lg-12 col-md-12">
         <h2 class="section-title">{{site.data.homepage.signup.title}}</h2>
 
-        <a class="btn-primary btn-hg" href="#signup_row">{{site.data.homepage.about.call_to_action}}</a>
-
+<!--        <a class="btn-primary btn-hg" href="{{site.data.homepage.about.link_to_enrollment_page}}">{{site.data.homepage.about.call_to_action}}</a>
+-->
 
       </div>
   </div>
