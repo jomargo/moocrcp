@@ -53,18 +53,18 @@ signup_2:
   button: "Inscríbete en el Curso Gratis"
 
 faq:
-  title: "Frequently Asked Questions"
+  title: "Preguntas Frecuentes"
   qa:
-    - question: "Is this course applicable for people that are already teaching online?"
-      answer: "Absolutely. In fact, if you are already teaching online, chances are you'd be able to recoup your investment in this course in a matter of days by following some of the more advanced marketing strategies discussed. Even experienced course creators will be able to benefit from some of the production hacks shared by Bitfountain - in addition, to the marketing knowledge of course."
-    - question: "How much does this course cost?"
-      answer: "We have not determined pricing yet - but it will likely be around $100 for a limited time after launch."
-    - question: "When will this course open?"
-      answer: "We're looking to launch the course for a couple of days around December 15th. After opening enrollments for a couple of days, we are going to focus on helping the students inside the course achieve results. Based on how much time we have to invest, we may open up sign ups again in the future. To ensure you don't miss out on a spot, write a note to watch your email around December 15th. "
-    - question: "Is there any specialized equipment that I will need?"
-      answer: "While technically all you need to launch your course will be an internet connection, laptop and mic, as your business grows we'll walk you through using the specific recording equiptment we've used to create high-quality productions. Additionally, all the software products discussed in the course such as Fedora, ConvertKit and SumoMe will be available as a free bonus to anyone who purchases the course."
-    - question: "What is the refund policy?"
-      answer: "If you are unhappy with the course for absolutely any reason 30 days after purchase, we'll refund 100% of your money without asking any questions."
+    - question: "Dónde se realiza este curso? ¿Cuándo empieza?"
+      answer: "Este curso es completamente online, y ya está abierto, puedes empezar ahora mismo. No tiene fecha de finalización, por lo que podrás entrar al curso cuando quieras y realizarlo a tu propio ritmo."
+    - question: "¿Cuánto cuesta este curso?"
+      answer: "Este curso es gratuito y abierto (MOOC). No cuesta nada. No tienes que pagar nada ni hacer nada. No te pediremos ninguna tarjeta de crédito. Sólo tiene un coste para aquellos que deseen realizar un examen y obtener un certificado de realización del curso. Si esto no te interesa, no tienes que pagar nada. Si más adelante cambias de opinión y quieres pedir el certificado, puedes pagarlo y realizar el examen para obtenerlo. No hace falta que repitas el curso."
+    - question: "¿Este curso va dirigido sólo a médicos?"
+      answer: "Este curso va dirigido a profesionales sanitarios en general: Médicos, Enfermeros, Técnicos y Auxiliares. Las maniobras de Soporte Vital Básico se pueden realizar por cualquier persona, por lo que esta parte del curso es útil para cualquiera. Sin embargo, las maniobras de Soporte Vital Avanzadas requieren de un entorno medicalizado para su realización."
+    - question: "¿Qué validez tiene el certificado del curso?"
+      answer: "Hemos tramitado la acreditación de este curso con la Comisión de Formación Continuada de las Profesiones Sanitarias española. Eso quiere decir que, una vez aprobado el curso, dispondrá de validez en concursos y oposiciones en el territorio español."
+    - question: "¿Qué necesito para realizar el curso?"
+      answer: "Este curso no tiene parte práctica, por lo que sólo necesitarás tu pc o tablet para ver los videotutoriales"
 
 footer:
   copyright: "&copy; 2015 Medicarama"
