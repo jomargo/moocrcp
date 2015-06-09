@@ -13,8 +13,8 @@ about:
   title: "Sobre el Curso"
   first_paragraph: "<p> Una parada cardiorespiratoria es una situación tremendamente estresante, incluso para los profesionales. Cada segundo que pasa disminuyen las posibilidades de supervivencia de la víctima, y saber exactamente lo que hay que hacer es imprescindible para no perder un tiempo muy valioso.</p><p>En este curso MOOC aprenderás todas las maniobras y técnicas de <strong>Soporte Vital</strong>, tanto a nivel <strong>Básico</strong> como a nivel <strong>Avanzado</strong> (medicalizado). Todo ello según las guías y recomendaciones de la <strong>European Resucitation Council</strong> y la <strong>American Heart Association</strong>.</p><p>A lo largo de más de 20 videotutoriales aprenderás en detalle todos los aspectos más importantes de la reanimación cardiopulmonar de una forma visual y amena.</p><p>También podrás acceder a una gran comunidad de aprendizaje, donde podrás debatir con otros profesionales como tú y con los profesores del curso para solucionar todas tus dudas.</p>"
   second_paragraph: "<p>Además podrás acceder a todo esto de forma gratuita. ¿Qué más se puede pedir?</p><p>Empieza a aprender ahora y actualiza tus conocimientos en las maniobras médicas de reanimación cardiopulmonar.</p>"
-  call_to_action: "Inscríbete en el Curso Gratis"
-  link_to_enrollment_page: "http://medicarama.com/purchase?utf8=%E2%9C%93&course_id=12404&coupon_code=&school_domain=medicarama.com&product_id=12707"
+  call_to_action: "Inscríbete en el Curso Gratis a cambio de Compartirlo"
+  link_to_enrollment_page: "http://www.paywithatweet.com/pay?id=ff46b48b-890c-4514-9302-47a83cf82aee"
 
 learn:
   title: "In this course you will learn"
@@ -46,11 +46,11 @@ learn:
 
 signup:
   title: "Salvar vidas es importante. Empieza a aprender ahora"
-  button: "Inscríbete en el Curso Gratis"
+  button: "Inscríbete en el Curso Gratis a cambio de Compartirlo"
 
 signup_2:
   title: "Salvar vidas es importante. Empieza a aprender ahora"
-  button: "Inscríbete en el Curso Gratis"
+  button: "Inscríbete en el Curso Gratis a cambio de Compartirlo"
 
 faq:
   title: "Preguntas Frecuentes"
